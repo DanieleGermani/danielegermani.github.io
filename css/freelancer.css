@@ -276,7 +276,7 @@ header.masthead .intro-text .skills {
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
-  font-size: 20px;
+  font-size: 18px;
   position: absolute;
   top: 50%;
   width: 100%;
@@ -284,6 +284,9 @@ header.masthead .intro-text .skills {
   margin-top: -12px;
   text-align: center;
   color: white;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
