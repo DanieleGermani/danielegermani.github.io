@@ -345,6 +345,9 @@ header.masthead .intro-text .skills {
   cursor: pointer;
   background-color: transparent;
 }
+.modal-body > li{
+  text-align: left;
+}
 
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
@@ -623,7 +626,7 @@ footer .footer-below {
 
 .tech {
   display: flex;
-  
+
 }
 .text-center > p {
   text-align: center;
