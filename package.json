@@ -1,6 +1,6 @@
 {
-  "title": "Freelancer",
-  "name": "startbootstrap-freelancer",
+  "title": "Daniele Germani",
+  "name": "Portfolio",
   "version": "4.0.0-beta",
   "description": "A freelancer portfolio HTML theme for Bootstrap.",
   "keywords": [
@@ -11,19 +11,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/freelancer",
+  "homepage": " https://danielegermani.github.io/",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/DanieleGermani/danielegermani.github.io",
+    "email": "daniele.germani.85@gmail.com"
   },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Daniele Germani (https://danielegermani.github.io/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+    "url": "https://github.com/DanieleGermani/danielegermani.github.io"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
